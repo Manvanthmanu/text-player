@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+
+button{
+  border: none;
+}
+
+.activee{
+  background-color: #61dafb;
+}
